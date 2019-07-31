@@ -11,17 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://39.100.106.239/panda.ipa</string>
+					<string>http://39.100.106.239/honor/honor.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>http://39.100.106.239/57x57.png</string>
+					<string>http://39.100.106.239/honor/57x57.png</string>
 					<key>url</key>
 					<string>https:</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>http://39.100.106.239/512x512.png</string>
+					<string>http://39.100.106.239/honor/512x512.png</string>
 					<key>url</key>
 					<string>https:</string>
 				</dict>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sevenstar.ionicfenghuangNews</string>
+				<string>com.rongyao2019</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>熊猫竞猜</string>
+				<string>荣耀</string>
 			</dict>
 		</dict>
 	</array>
